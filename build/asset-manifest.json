@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chessnoor-showcase/static/css/main.3a94b09e.css",
+    "main.js": "/chessnoor-showcase/static/js/main.6d22da61.js",
+    "static/media/header.png": "/chessnoor-showcase/static/media/header.628a81d35535a8d86d5b.png",
+    "static/media/Error 1440px.png": "/chessnoor-showcase/static/media/Error 1440px.e2b8409616c3defe60ba.png",
+    "static/media/1440px(1).png": "/chessnoor-showcase/static/media/1440px(1).804465be785bca38ef9b.png",
+    "static/media/1440px.png": "/chessnoor-showcase/static/media/1440px.fea4fbed583fff505c3f.png",
+    "static/media/1440 px.png": "/chessnoor-showcase/static/media/1440 px.86905c52971c11829916.png",
+    "static/media/1.png": "/chessnoor-showcase/static/media/1.313d1fa014df785535c9.png",
+    "static/media/post (3).png": "/chessnoor-showcase/static/media/post (3).c0c3092fa54bb3f3331c.png",
+    "static/media/post (2).png": "/chessnoor-showcase/static/media/post (2).b2d3e042918476d22632.png",
+    "static/media/1440 px(1).png": "/chessnoor-showcase/static/media/1440 px(1).a2151df4697eb089614c.png",
+    "static/media/post (1).png": "/chessnoor-showcase/static/media/post (1).c2a0a599fd1a66765513.png",
+    "index.html": "/chessnoor-showcase/index.html",
+    "main.3a94b09e.css.map": "/chessnoor-showcase/static/css/main.3a94b09e.css.map",
+    "main.6d22da61.js.map": "/chessnoor-showcase/static/js/main.6d22da61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a94b09e.css",
+    "static/js/main.6d22da61.js"
+  ]
+}
